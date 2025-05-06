@@ -91,6 +91,7 @@ int main()
     {
         mass[i].write(file);
     }
+    
 
     /*string file = "gg.txt";
 
